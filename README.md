@@ -9,6 +9,6 @@ Steady-state error less than 1%
 dscribed at 
 http://ctms.engin.umich.edu/CTMS/index.php?example=MotorSpeed&section=ControlPID
 
-PID controller is design via matlab then represented as discrete transfer function then as difference equation
+PID controller is designed via matlab then represented as discrete transfer function then as difference equation
 
 Both the controller and the system are simualted in proteus project using arduino UNO 
